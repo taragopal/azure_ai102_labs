@@ -1,0 +1,4 @@
+azure-ai-projects
+azure-identity
+ipykernel
+azure-ai-textanalytics==5.3.0
