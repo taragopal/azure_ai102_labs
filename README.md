@@ -15,6 +15,8 @@ This repository is a personal lab for experimenting with **Azure AI Services** a
 
 **AI Language** ([language.ipynb](./language.ipynb)): Language detection, Sentiment analysis, Key phrase extraction, Entity recognition, Linked entities extraction, PII recognition, Summarization.
 
+**AI Translator** ([translator.ipynb](./translator.ipynb)): Translation, Transliteration.
+
 ### Implement knowledge mining and information extraction solutions (15–20%)
 
 
