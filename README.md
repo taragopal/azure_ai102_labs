@@ -8,6 +8,8 @@ This repository is a personal lab for experimenting with **Azure AI Services** a
 
 ### Implement generative AI solutions (15–20%)
 
+**Working with Multimodal Models** [generative_multimodal_models.ipynb](./generative_multimodal_models.ipynb): Prompting with audio files, Prompting with image files.
+
 ### Implement an agentic solution (5–10%)
 ### Implement computer vision solutions (10–15%)
 
