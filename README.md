@@ -8,16 +8,17 @@ This repository is a personal lab for experimenting with **Azure AI Services** a
 
 ### Implement generative AI solutions (15–20%)
 
-**Working with Multimodal Models** [generative_multimodal_models.ipynb](./generative_multimodal_models.ipynb): Prompting with audio files, Prompting with image files.
+- **Prompt flow** ([genai_prompt_flow.md](genai_prompt_flow.md)): Basic flow concepts, types and components. LLM evaluation metrics.
+- **Working with Multimodal Models** ([genai_multimodal_models.ipynb](genai_multimodal_models.ipynb)): Prompting with audio and image files.
 
 ### Implement an agentic solution (5–10%)
+
 ### Implement computer vision solutions (10–15%)
 
 ### Implement natural language processing solutions (15–20%)
 
-**AI Language** ([language.ipynb](./language.ipynb)): Language detection, Sentiment analysis, Key phrase extraction, Entity recognition, Linked entities extraction, PII recognition, Summarization.
-
-**AI Translator** ([translator.ipynb](./translator.ipynb)): Translation, Transliteration.
+- **AI Language** ([ai_language.ipynb](ai_language.ipynb)): Language detection, Sentiment analysis, Key phrase extraction, Entity recognition, Linked entities extraction, PII recognition, Summarization.
+- **AI Translator** ([ai_translator.ipynb](ai_translator.ipynb)): Translation, Transliteration.
 
 ### Implement knowledge mining and information extraction solutions (15–20%)
 
