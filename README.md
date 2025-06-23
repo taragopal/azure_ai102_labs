@@ -10,6 +10,7 @@ This repository is a personal lab for experimenting with **Azure AI Services** a
 
 - **Prompt flow** ([genai_prompt_flow.md](genai_prompt_flow.md)): Basic flow concepts, types and components. LLM evaluation metrics.
 - **Working with Multimodal Models** ([genai_multimodal_models.ipynb](genai_multimodal_models.ipynb)): Prompting with audio and image files.
+- **RAG with AI Search** ([genai_rag_with_ai_search.ipynb](genai_rag_with_ai_search.ipynb)): Key-word search, Vector search.
 
 ### Implement an agentic solution (5–10%)
 

@@ -1,0 +1,88 @@
+## ⚽ Tournament Overview
+
+* **Dates & host**: Held from 14 June to 14 July 2024 in **Germany**, the 17th edition featured **24 teams** across **10 cities and stadiums** ([en.wikipedia.org][1]).
+* **Structure**: Six groups of four teams each; top two (and best third‑placed teams) advanced to knockout rounds .
+* **Venues**: Matches played in cities like Berlin (Olympiastadion), Munich, Stuttgart, Gelsenkirchen, Düsseldorf, Cologne, Leipzig, Hamburg, Frankfurt, and Dortmund .
+
+---
+
+## 🏆 Spain’s Path to Glory
+
+* **Group B**: Swept through with wins over Croatia (3‑0 in Berlin), Italy (1‑0 in Gelsenkirchen), and Albania (1‑0 in Düsseldorf) ([uefa.com][2]).
+* **Round of 16**: Powerfully beat Georgia 4‑1 in Cologne ([uefa.com][2]).
+* **Quarter‑finals**: Edged past hosts Germany 2‑1 (after extra time) in Stuttgart ([uefa.com][2]).
+* **Semi‑finals**: Overcame France with a 2‑1 victory in Munich ([uefa.com][2]).
+* **Final**: Triumphed 2‑1 over England at Berlin’s Olympiastadion on 14 July ([uefa.com][2]).
+
+---
+
+## 🏟️ Venues Highlight
+
+The competition unfolded across **10 German cities**. Some key stadiums included:
+
+* **Olympiastadion**, Berlin – hosted the Final
+* **Allianz Arena**, Munich – Semis and group matches
+* **Stuttgart**, **Gelsenkirchen**, **Düsseldorf**, **Cologne**, **Leipzig**, **Hamburg**, **Frankfurt**, and **Dortmund** hosted group and knockout fixtures ([sportmonks.com][3], [theguardian.com][4]).
+
+---
+
+## 🏅 Personal Prizes & Records
+
+* **Player of the Tournament**: *Rodri* (Spain) ([en.wikipedia.org][5]).
+* **Young Player of the Tournament**: *Lamine Yamal* (Spain), who turned 17 right before the final, becoming the youngest player in a European Championship final ([en.wikipedia.org][5]).
+* **Goal of the Tournament**: *Lamine Yamal*’s stunning equaliser against France in the semi-final ([uefa.com][6]).
+* **Top scorers**: Interestingly, no sole leader—six players tied at **3 goals** each, including Harry Kane, Georges Mikautadze, Jamal Musiala, Cody Gakpo, Ivan Schranz, and **Dani Olmo** ([en.wikipedia.org][1]).
+* **Final Match Honors**: *Nico Williams* named Man of the Match in the final ([en.wikipedia.org][5]). *Cole Palmer* (England) set records by scoring 142 seconds after coming on—youngest English substitute—and becoming the youngest substitute ever to score in a EURO final ([talksport.com][7]).
+
+---
+
+## 🥇 The Final: Spain vs England (14 July 2024 – Olympiastadion, Berlin)
+
+* **First half**: Tight play, no goals.
+* **Second 45′**:
+
+  * 47′ – *Nico Williams* put Spain ahead.
+  * 73′ – *Cole Palmer* elicited an immediate equaliser for England.
+  * 86′ – *Mikel Oyarzabal* struck the winner for Spain ([espn.com][8]).
+* **Final score**: **Spain 2–1 England**; Spain became the first team to win all **7 matches** in a single EURO campaign ([en.wikipedia.org][9]).
+
+---
+
+## 🧱 Legacy & Notable Facts
+
+* **Spain’s dominance**: Their fourth title (after 1964, 2008, 2012), surpassing Germany’s previous record ([uefa.com][2]).
+* **Flawless run**: Spain won every match without needing penalties, scoring 15 and conceding just 4 ([uefa.com][2]).
+* **Historic youth**: Yamal broke records as the youngest finals participant and was pivotal in Spain’s attack alongside rising stars Nico Williams, Dani Olmo, and Rodri ([sportmonks.com][3]).
+* **Team unity**: Coach Luis de la Fuente—who had led Spain’s youth sides to EURO titles—implemented a cohesive team spirit, deep bench strength (Oyarzabal scored crucial goals), and a passing style that balanced flair with effectiveness ([uefa.com][2]).
+
+---
+
+## 📊 Quick Stats
+
+| Category               | Stat                                             |
+| ---------------------- | ------------------------------------------------ |
+| Matches played         | 51                                               |
+| Goals scored overall   | 117                                              |
+| Prize money for winner | €8 million (+ participation & progression fees)  |
+
+---
+
+### 🎉 In Summary
+
+Euro 2024 in Germany was a celebration of football—packed stadiums, thrilling matches, and a rising generation of stars. Spain’s perfect campaign, underlined by tactical mastery, youth impact (Yamal, Williams, Rodri), and Oyarzabal’s decisive contributions, established them as true champions and the first country to win seven out of seven matches in a EURO tournament.
+
+---
+
+* [theguardian.com](https://www.theguardian.com/football/article/2024/jul/15/oyarzabal-shows-value-of-de-la-fuente-true-team-on-road-to-winning-euro-2024?utm_source=chatgpt.com)
+* [lemonde.fr](https://www.lemonde.fr/en/sports/article/2024/07/15/euro-2024-spain-the-tournament-s-most-enjoyable-team-beats-england-in-the-final_6684585_9.html?utm_source=chatgpt.com)
+* [talksport.com](https://talksport.com/football/1961754/cole-palmer-england-euro-2024-goal/?utm_source=chatgpt.com)
+
+[1]: https://en.wikipedia.org/wiki/UEFA_Euro_2024?utm_source=chatgpt.com "UEFA Euro 2024"
+[2]: https://www.uefa.com/euro2024/news/028f-1b4e4a9a6d42-253a2c18efdf-1000--uefa-euro-2024-meet-the-winners/?utm_source=chatgpt.com "UEFA EURO 2024: Meet the winners"
+[3]: https://www.sportmonks.com/blogs/euro-2024-recap-highlights-game-recaps-records/?utm_source=chatgpt.com "Euro 2024 Recap - Highlights, Games & Records. - Sportmonks"
+[4]: https://www.theguardian.com/football/article/2024/jul/15/oyarzabal-shows-value-of-de-la-fuente-true-team-on-road-to-winning-euro-2024?utm_source=chatgpt.com "Oyarzabal shows value of De la Fuente's 'true team' on road to winning Euro 2024"
+[5]: https://en.wikipedia.org/wiki/UEFA_Euro_2024_final?utm_source=chatgpt.com "UEFA Euro 2024 final"
+[6]: https://www.uefa.com/euro2024/news/0290-1ba5adefab2e-16914ae7e74f-1000--a-euro-to-remember/?utm_source=chatgpt.com "A EURO to remember | UEFA EURO 2024 | UEFA.com"
+[7]: https://talksport.com/football/1961754/cole-palmer-england-euro-2024-goal/?utm_source=chatgpt.com "Cole Palmer breaks two European Championship records with stunning England goal and makes Chelsea"
+[8]: https://www.espn.com/soccer/story/_/id/40560458/euro-2024-final-england-spain-reaction-analysis-highlights?utm_source=chatgpt.com "Euro 2024 final: Spain defeat England reaction, analysis - ESPN"
+[9]: https://en.wikipedia.org/wiki/Spain_national_football_team?utm_source=chatgpt.com "Spain national football team"
