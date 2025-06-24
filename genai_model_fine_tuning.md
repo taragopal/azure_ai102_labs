@@ -52,7 +52,7 @@ A multi-turn conversation can be include in the dataset. We can use the `weight`
 - Training duration: `50m 38s`
 - Training tokens: `8000`
 - Training cost: `~$0.29`
-- Performance: the model gives incorrect outputs about the 2024 Euro final (before training: answered with no information). 
+- Performance: the model gives incorrect outputs about the 2024 Euro final (before training: answered with no information). Low performance might be due to the small training dataset and default training hyperparameters.
 - Default configuration for fine-tuning are:
     - Batch size: `1`
     - Learning rate multiplier: `2`

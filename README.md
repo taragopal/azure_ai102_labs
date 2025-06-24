@@ -8,9 +8,11 @@ This repository is a personal lab for experimenting with **Azure AI Services** a
 
 ### Implement generative AI solutions (15–20%)
 
+- **Responsible AI** ([genai_responsible_ai.md](genai_responsible_ai.md)): Identify, mitigate and manage potential harms.
 - **Prompt flow** ([genai_prompt_flow.md](genai_prompt_flow.md)): Basic flow concepts, types and components. LLM evaluation metrics.
 - **Working with Multimodal Models** ([genai_multimodal_models.ipynb](genai_multimodal_models.ipynb)): Prompting with audio and image files.
 - **RAG with AI Search** ([genai_rag_with_ai_search.ipynb](genai_rag_with_ai_search.ipynb)): Key-word search, Vector search.
+- **Fine-tune AI models** ([genai_model_fine_tuning.md](genai_model_fine_tuning.md)): Fine-tune AI model on Azure AI Foundry.
 
 ### Implement an agentic solution (5–10%)
 
