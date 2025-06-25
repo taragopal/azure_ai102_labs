@@ -19,6 +19,8 @@ This repository is a personal lab for experimenting with **Azure AI Services** a
 
 ### Implement computer vision solutions (10–15%)
 
+- **AI Vision** ([ai_vision.ipynb](ai_vision.ipynb)): Image analysis (Caption, Dense caption, Tags, Objects, People, Smart crops, Read text).
+
 ### Implement natural language processing solutions (15–20%)
 
 - **AI Language** ([ai_language.ipynb](ai_language.ipynb)): Language detection, Sentiment analysis, Key phrase extraction, Entity recognition, Linked entities extraction, PII recognition, Summarization.
