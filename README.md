@@ -18,6 +18,10 @@ This repository is a personal lab for experimenting with **Azure AI Services** a
 
 ### Implement an agentic solution (5–10%)
 
+- **AI Agents overview** ([aigents_overview.md](aigents_overview.md)): Agent development on Azure platform, Agent components, Agent use-cases, and Agent resources (tools, knowledge, model).
+- **AI Agent development with Foundry Agent Service** ([aiagents_first_agent.ipynb](aiagents_first_agent.ipynb)): Simple agent with CodeIntepreter tool to analyze an uploaded data file.
+- **AI Agent with Custom tools** ([aiagents_custom_tools.ipynb](aiagents_custom_tools.ipynb)): Simple agent with Function calling tool (Python function).
+
 ### Implement computer vision solutions (10–15%)
 
 - **AI Vision** ([ai_vision.ipynb](ai_vision.ipynb)): 
