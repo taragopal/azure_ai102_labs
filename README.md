@@ -1,8 +1,15 @@
-# Azure AI Services Lab & AZ-102 Study
+# Azure AI Services Lab & AI-102 Study
 
-This repository is a personal lab for experimenting with **Azure AI Services** and preparing for the **AZ-102 Azure AI Engineer Associate** exam.
+This repository is a personal lab for experimenting with **Azure AI Services** and preparing for the **AI-102 Azure AI Engineer Associate** exam.
 
-## AZ-102 Focus Areas (Skills measured as of April 30, 2025)
+## ⚠️ Disclaimer
+
+At the time of this writing, Azure is continuously updating its AI concepts and services to keep up with the rapidly evolving AI landscape. As a result, some SDK packages, APIs, or functions may not work as expected or could be deprecated without notice. 
+
+This repository is intended for learning and experimentation—please validate official documentation when building production-grade solutions.
+
+
+## AI-102 Focus Areas (Skills measured as of April 30, 2025)
 
 ### Plan and manage an Azure AI solution (20–25%)
 
@@ -36,10 +43,3 @@ This repository is a personal lab for experimenting with **Azure AI Services** a
 ### Implement knowledge mining and information extraction solutions (15–20%)
 - **Content Understanding** ([genai_content_understanding.ipynb](genai_content_understanding.ipynb)): Document (invoice) analysis, Audio analysis, Create a custom analyzer.
 - **AI Search** ([ai_search.ipynb](ai_search.ipynb)): Querying an index.
-
-
-## ⚠️ Disclaimer
-
-At the time of this writing, Azure is continuously updating its AI concepts and services to keep up with the rapidly evolving AI landscape. As a result, some SDK packages, APIs, or functions may not work as expected or could be deprecated without notice. 
-
-This repository is intended for learning and experimentation—please validate official documentation when building production-grade solutions.
