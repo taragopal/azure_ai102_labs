@@ -28,6 +28,7 @@ This repository is intended for learning and experimentation—please validate o
 - **AI Agents overview** ([aigents_overview.md](aigents_overview.md)): Agent development on Azure platform, Agent components, Agent use-cases, and Agent resources (tools, knowledge, model).
 - **AI Agent development with Foundry Agent Service** ([aiagents_first_agent.ipynb](aiagents_first_agent.ipynb)): Simple agent with CodeIntepreter tool to analyze an uploaded data file.
 - **AI Agent with Custom tools** ([aiagents_custom_tools.ipynb](aiagents_custom_tools.ipynb)): Simple agent with Function calling tool (Python function).
+- **Semantic Kernel** ([aiagents_semantic_kernel.ipynb](aiagents_semantic_kernel.ipynb)): Experiment building AI agents with Semantic Kernel.
 
 ### Implement computer vision solutions (10–15%)
 
