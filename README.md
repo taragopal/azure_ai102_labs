@@ -31,6 +31,7 @@ This repository is a personal lab for experimenting with **Azure AI Services** a
 
 ### Implement knowledge mining and information extraction solutions (15–20%)
 - **Content Understanding** ([genai_content_understanding.ipynb](genai_content_understanding.ipynb)): Document (invoice) analysis, Audio analysis, Create a custom analyzer.
+- **AI Search** ([ai_search.ipynb](ai_search.ipynb)): Querying an index.
 
 
 ## ⚠️ Disclaimer

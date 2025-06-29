@@ -23,7 +23,9 @@ azure-ai-vision-face==1.0.0b2
 azure-ai-vision-imageanalysis==1.0.0
     # via -r requirements.in
 azure-common==1.1.28
-    # via azure-ai-textanalytics
+    # via
+    #   azure-ai-textanalytics
+    #   azure-search-documents
 azure-core==1.34.0
     # via
     #   azure-ai-inference
@@ -33,7 +35,10 @@ azure-core==1.34.0
     #   azure-ai-vision-face
     #   azure-ai-vision-imageanalysis
     #   azure-identity
+    #   azure-search-documents
 azure-identity==1.23.0
+    # via -r requirements.in
+azure-search-documents==11.5.1
     # via -r requirements.in
 certifi==2025.4.26
     # via
@@ -84,6 +89,7 @@ isodate==0.7.2
     #   azure-ai-translation-text
     #   azure-ai-vision-face
     #   azure-ai-vision-imageanalysis
+    #   azure-search-documents
 jedi==0.19.2
     # via ipython
 jiter==0.10.0
@@ -181,6 +187,7 @@ typing-extensions==4.13.2
     #   azure-ai-vision-imageanalysis
     #   azure-core
     #   azure-identity
+    #   azure-search-documents
     #   openai
     #   pydantic
     #   pydantic-core
