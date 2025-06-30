@@ -39,6 +39,8 @@ azure-ai-vision-face==1.0.0b2
     # via -r requirements.in
 azure-ai-vision-imageanalysis==1.0.0
     # via -r requirements.in
+azure-cognitiveservices-speech==1.42.0
+    # via -r requirements.in
 azure-common==1.1.28
     # via
     #   azure-ai-textanalytics

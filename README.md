@@ -15,7 +15,7 @@ This repository is intended for learning and experimentation—please validate o
 - Generative AI solution: Azure AI Foundry, Azure OpenAI.
 - Computer vision solution: AI Vision.
 - Natural language processing solution: AI Language, AI Translator.
-- Speech solution: AI Speech (speech-to-text, text-to-speech, speaker identification, speaker verification, speech diarization).
+- Speech solution: AI Speech (speech-to-text, text-to-speech, speaker identification, speaker verification, diarization).
 - Information extraction solution: Content Understanding (Document Intelligence, Video Indexer).
 - Knowledge mining solution: Content Understanding, AI Search.
 - Monitor Azure AI resources: specific AI resource, unified resource (AI Foundry).
@@ -53,6 +53,7 @@ This repository is intended for learning and experimentation—please validate o
 
 - **AI Language** ([ai_language.ipynb](ai_language.ipynb)): Language detection, Sentiment analysis, Key phrase extraction, Entity recognition, Linked entities extraction, PII recognition, Summarization.
 - **AI Translator** ([ai_translator.ipynb](ai_translator.ipynb)): Translation, Transliteration.
+- **AI Speech** ([ai_speech.ipynb](ai_speech.ipynb)): Audio transcription, Speech synthesis with SSML, Speech translation, Transcription with real-time Diarization.
 
 ### Implement knowledge mining and information extraction solutions (15–20%)
 
