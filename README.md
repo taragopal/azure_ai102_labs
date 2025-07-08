@@ -41,7 +41,8 @@ This repository is intended for learning and experimentation—please validate o
 - **AI Agent development with Foundry Agent Service** ([aiagents_first_agent.ipynb](aiagents_first_agent.ipynb)): Simple agent with CodeIntepreter tool to analyze an uploaded data file.
 - **AI Agent with Custom tools** ([aiagents_custom_tools.ipynb](aiagents_custom_tools.ipynb)): Simple agent with Function calling tool (Python function).
 - **Semantic Kernel** ([aiagents_semantic_kernel.ipynb](aiagents_semantic_kernel.ipynb)): Experiment building AI agents with Semantic Kernel.
-- **Agent orchestration** ([aiagents_agent_orchestration.ipynb](aiagents_agent_orchestration.ipynb)): Experiment on orchestration a multi-agent system using Semantic Kernel.
+- **Agent orchestration** ([aiagents_agent_orchestration.ipynb](aiagents_agent_orchestration.ipynb)): Experiment on orchestration a multi-agent system using Semantic Kernel, the orchestration follows pre-defined logics.
+- **Connected Agents** ([aiagents_connected_agents.ipynb](aiagents_connected_agents.ipynb)): Another way to build multi-agent solutions, the main agent uses natural language (prompts) and tools to orchestrate.
 
 ### Implement computer vision solutions (10–15%)
 
