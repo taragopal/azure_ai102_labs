@@ -43,6 +43,7 @@ This repository is intended for learning and experimentation—please validate o
 - **Semantic Kernel** ([aiagents_semantic_kernel.ipynb](aiagents_semantic_kernel.ipynb)): Experiment building AI agents with Semantic Kernel.
 - **Agent orchestration** ([aiagents_agent_orchestration.ipynb](aiagents_agent_orchestration.ipynb)): Experiment on orchestration a multi-agent system using Semantic Kernel, the orchestration follows pre-defined logics.
 - **Connected Agents** ([aiagents_connected_agents.ipynb](aiagents_connected_agents.ipynb)): Another way to build multi-agent solutions, the main agent uses natural language (prompts) and tools to orchestrate.
+- **MCP Integration** ([aiagents_mcp_tools.ipynb](aiagents_mcp_tools.ipynb)): Experiment with Agents using MCP server/client.
 
 ### Implement computer vision solutions (10–15%)
 

@@ -10,3 +10,4 @@ azure-search-documents==11.5.1
 ipykernel
 openai==1.90.0
 semantic-kernel
+fastmcp==2.10.2

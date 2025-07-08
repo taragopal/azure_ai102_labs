@@ -15,7 +15,10 @@ annotated-types==0.7.0
 anyio==4.9.0
     # via
     #   httpx
+    #   mcp
     #   openai
+    #   sse-starlette
+    #   starlette
 appnope==0.1.4
     # via ipykernel
 asttokens==3.0.0
@@ -25,6 +28,8 @@ attrs==25.3.0
     #   aiohttp
     #   jsonschema
     #   referencing
+authlib==1.6.0
+    # via fastmcp
 av==14.4.0
     # via aiortc
 azure-ai-inference==1.0.0b5
@@ -75,6 +80,10 @@ chardet==5.2.0
     # via prance
 charset-normalizer==3.4.2
     # via requests
+click==8.2.1
+    # via
+    #   typer
+    #   uvicorn
 cloudevents==1.12.0
     # via semantic-kernel
 comm==0.2.2
@@ -82,6 +91,7 @@ comm==0.2.2
 cryptography==45.0.2
     # via
     #   aiortc
+    #   authlib
     #   azure-identity
     #   msal
     #   pyjwt
@@ -97,9 +107,17 @@ deprecation==2.1.0
 distro==1.9.0
     # via openai
 dnspython==2.7.0
-    # via aioice
+    # via
+    #   aioice
+    #   email-validator
+email-validator==2.2.0
+    # via pydantic
+exceptiongroup==1.3.0
+    # via fastmcp
 executing==2.2.0
     # via stack-data
+fastmcp==2.10.2
+    # via -r requirements.in
 frozenlist==1.7.0
     # via
     #   aiohttp
@@ -107,14 +125,22 @@ frozenlist==1.7.0
 google-crc32c==1.7.1
     # via aiortc
 h11==0.16.0
-    # via httpcore
+    # via
+    #   httpcore
+    #   uvicorn
 httpcore==1.0.9
     # via httpx
 httpx==0.28.1
-    # via openai
+    # via
+    #   fastmcp
+    #   mcp
+    #   openai
+httpx-sse==0.4.1
+    # via mcp
 idna==3.10
     # via
     #   anyio
+    #   email-validator
     #   httpx
     #   requests
     #   yarl
@@ -146,6 +172,7 @@ jiter==0.10.0
     # via openai
 jsonschema==4.24.0
     # via
+    #   mcp
     #   openapi-core
     #   openapi-schema-validator
     #   openapi-spec-validator
@@ -165,6 +192,8 @@ jupyter-core==5.7.2
     #   jupyter-client
 lazy-object-proxy==1.11.0
     # via openapi-spec-validator
+markdown-it-py==3.0.0
+    # via rich
 markupsafe==3.0.2
     # via
     #   jinja2
@@ -173,6 +202,10 @@ matplotlib-inline==0.1.7
     # via
     #   ipykernel
     #   ipython
+mcp==1.10.1
+    # via fastmcp
+mdurl==0.1.2
+    # via markdown-it-py
 more-itertools==10.7.0
     # via openapi-core
 msal==1.32.3
@@ -199,6 +232,8 @@ openai==1.90.0
     #   semantic-kernel
 openapi-core==0.19.5
     # via semantic-kernel
+openapi-pydantic==0.5.1
+    # via fastmcp
 openapi-schema-validator==0.6.3
     # via
     #   openapi-core
@@ -251,19 +286,25 @@ pycparser==2.22
     # via cffi
 pydantic==2.11.7
     # via
+    #   fastmcp
+    #   mcp
     #   openai
+    #   openapi-pydantic
     #   pydantic-settings
     #   semantic-kernel
 pydantic-core==2.33.2
     # via pydantic
 pydantic-settings==2.10.1
-    # via semantic-kernel
+    # via
+    #   mcp
+    #   semantic-kernel
 pyee==13.0.0
     # via aiortc
 pygments==2.19.1
     # via
     #   ipython
     #   ipython-pygments-lexers
+    #   rich
 pyjwt==2.10.1
     # via msal
 pylibsrtp==0.12.0
@@ -275,7 +316,11 @@ pyopenssl==25.1.0
 python-dateutil==2.9.0.post0
     # via jupyter-client
 python-dotenv==1.1.1
-    # via pydantic-settings
+    # via
+    #   fastmcp
+    #   pydantic-settings
+python-multipart==0.0.20
+    # via mcp
 pyyaml==6.0.2
     # via jsonschema-path
 pyzmq==26.4.0
@@ -295,6 +340,10 @@ requests==2.32.3
     #   prance
 rfc3339-validator==0.1.4
     # via openapi-schema-validator
+rich==14.0.0
+    # via
+    #   fastmcp
+    #   typer
 rpds-py==0.25.1
     # via
     #   jsonschema
@@ -307,6 +356,8 @@ scipy==1.16.0
     # via semantic-kernel
 semantic-kernel==1.32.0
     # via -r requirements.in
+shellingham==1.5.4
+    # via typer
 six==1.17.0
     # via
     #   azure-core
@@ -316,8 +367,12 @@ sniffio==1.3.1
     # via
     #   anyio
     #   openai
+sse-starlette==2.4.1
+    # via mcp
 stack-data==0.6.3
     # via ipython
+starlette==0.47.1
+    # via mcp
 tornado==6.5
     # via
     #   ipykernel
@@ -332,6 +387,8 @@ traitlets==5.14.3
     #   jupyter-client
     #   jupyter-core
     #   matplotlib-inline
+typer==0.16.0
+    # via fastmcp
 typing-extensions==4.13.2
     # via
     #   anyio
@@ -344,6 +401,7 @@ typing-extensions==4.13.2
     #   azure-core
     #   azure-identity
     #   azure-search-documents
+    #   exceptiongroup
     #   openai
     #   openapi-core
     #   opentelemetry-api
@@ -355,6 +413,8 @@ typing-extensions==4.13.2
     #   pyopenssl
     #   referencing
     #   semantic-kernel
+    #   starlette
+    #   typer
     #   typing-inspection
 typing-inspection==0.4.1
     # via
@@ -362,6 +422,8 @@ typing-inspection==0.4.1
     #   pydantic-settings
 urllib3==2.4.0
     # via requests
+uvicorn==0.35.0
+    # via mcp
 wcwidth==0.2.13
     # via prompt-toolkit
 websockets==15.0.1
