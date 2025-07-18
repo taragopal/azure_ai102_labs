@@ -8,7 +8,7 @@ At the time of this writing, Azure is continuously updating its AI concepts and 
 
 This repository is intended for learning and experimentation—please validate official documentation when building production-grade solutions.
 
-## AI-102 Focus Areas (Skills measured as of April 30, 2025)
+## 🎯 AI-102 Focus Areas (Skills measured as of April 30, 2025)
 
 ### Plan and manage an Azure AI solution (20–25%)
 
@@ -61,3 +61,17 @@ This repository is intended for learning and experimentation—please validate o
 
 - **Content Understanding** ([genai_content_understanding.ipynb](genai_content_understanding.ipynb)): Document (invoice) analysis, Audio analysis, Create a custom analyzer.
 - **AI Search** ([ai_search.ipynb](ai_search.ipynb)): Querying an index.
+
+# 📝 Personal review on the exam
+
+I took the AI-102 on 18/07/2025, these are the main takeaways:
+- The exam has 3 sections: 50 standalone questions, then 3 (or 5?) questions that are related to each other (a series), and finally 6 case-study questions. Once I went through a section, I cannot go back to the previous.
+- The topics are very close to the [Change log table of the study guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-102#change-log). Beside all the services that you've learned, you should focus more on the topics listed on "Skill area as of April 30, 2025" column.
+- Take the [Practice assessment](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/?practice-assessment-type=certification) multiple times, it has questions that will appear in the exam.
+- I personally practice on the [Azure AI Engineer Associate AI-102 : Practice Tests (2025) by Nahid Perween on Udemy](https://www.udemy.com/course/azure-ai-engineer-associate-ai-102-practice-tests-new/), the final case-study questions in the exam are **exactly the same** to the questions in this course. I wonder if Microsoft only have these in their question bank? The standalone questions in this course are also very very helpful.
+- The standalone questions ask about Semantic Kernel and Azure AI Foundry Agent Service, which are kinda new, so you should pay attention to these too.
+- Before the exam, I have read about [the exam experiment and try the demo exam page](https://learn.microsoft.com/en-us/credentials/support/exam-duration-exam-experience) to be familiar with it.
+
+After finishing the exam, I got the result on screen, then a confirmation email from Microsoft about an hour later.
+
+I got 902/1000 on the exam, good luck to you guys! 🍀
